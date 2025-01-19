@@ -1,0 +1,8 @@
+2025-01-19 19:30:31 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\\Users\\mahal\\OneDrive\\Desktop\\CySentry\\assets\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2025-01-19 19:30:31 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\\Users\\mahal\\OneDrive\\Desktop\\CySentry\\assets\\Portscan_final\\packetcaptures1
+2025-01-19 19:30:31 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-01-19 19:30:32 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\mahal\OneDrive\Desktop\CySentry\assets\Portscan_final\packetcaptures1\captured_packets.pcap
+2025-01-19 19:33:35 INFO  cic.cs.unb.ca.ifm.Cmd    You select: c:\\Users\\mahal\\OneDrive\\Desktop\\CySentry\\assets\\Portscan_final\\packetcaptures1\\captured_packets.pcap
+2025-01-19 19:33:35 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: c:\\Users\\mahal\\OneDrive\\Desktop\\CySentry\\assets\\Portscan_final\\packetcaptures1
+2025-01-19 19:33:36 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-01-19 19:33:36 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on c:\Users\mahal\OneDrive\Desktop\CySentry\assets\Portscan_final\packetcaptures1\captured_packets.pcap
